@@ -1,0 +1,129 @@
+[
+  {
+    "question": "When will I receive payment?",
+    "answer": "Payment is released upon successful project completion and client approval. Upwork holds funds in escrow and releases them once the milestone is marked complete.",
+    "keywords": [
+      "payment",
+      "pay",
+      "money",
+      "paid",
+      "invoice",
+      "escrow",
+      "funds"
+    ]
+  },
+  {
+    "question": "How do I apply for a job?",
+    "answer": "To apply, submit a tailored proposal through Upwork highlighting your relevant experience. Include your portfolio and answer all questions in the job posting.",
+    "keywords": [
+      "apply",
+      "application",
+      "proposal",
+      "job",
+      "hire",
+      "bid"
+    ]
+  },
+  {
+    "question": "What are the working hours?",
+    "answer": "We operate across multiple time zones. Core collaboration hours are flexible but we ask that you confirm your available hours during onboarding.",
+    "keywords": [
+      "hours",
+      "time",
+      "schedule",
+      "availability",
+      "timezone",
+      "working",
+      "online"
+    ]
+  },
+  {
+    "question": "How do I submit my work?",
+    "answer": "Please submit all deliverables via the Upwork platform using the file submission feature or by sharing a cloud link. Always include a brief summary of what was completed.",
+    "keywords": [
+      "submit",
+      "submission",
+      "deliver",
+      "upload",
+      "share",
+      "send work",
+      "output"
+    ]
+  },
+  {
+    "question": "What tools do I need to use?",
+    "answer": "We primarily use Python, Streamlit, Gmail API, and Google Drive for automation projects. AI tools such as ChatGPT and Claude are encouraged.",
+    "keywords": [
+      "tools",
+      "software",
+      "technology",
+      "stack",
+      "python",
+      "streamlit",
+      "use"
+    ]
+  },
+  {
+    "question": "How do I communicate with the team?",
+    "answer": "All communication happens through Upwork Messenger. For calls, we use Google Meet or Zoom. Please respond within 24 hours.",
+    "keywords": [
+      "communicate",
+      "communication",
+      "contact",
+      "message",
+      "call",
+      "meeting",
+      "reach"
+    ]
+  },
+  {
+    "question": "What happens if I miss a deadline?",
+    "answer": "Please notify us at least 24 hours in advance if you anticipate missing a deadline. We are flexible when informed promptly.",
+    "keywords": [
+      "deadline",
+      "late",
+      "miss",
+      "delay",
+      "extend",
+      "extension",
+      "overdue"
+    ]
+  },
+  {
+    "question": "How do I verify my Upwork account?",
+    "answer": "Go to your Upwork profile settings and complete the identity verification process. You will need a government-issued ID.",
+    "keywords": [
+      "verify",
+      "verification",
+      "account",
+      "id",
+      "identity",
+      "upwork account"
+    ]
+  },
+  {
+    "question": "Will there be more work after this project?",
+    "answer": "Yes, this is the first of many automation projects. Strong performers will be offered continued collaboration across multiple pre-funded startups.",
+    "keywords": [
+      "more work",
+      "long term",
+      "future",
+      "ongoing",
+      "next project",
+      "continue"
+    ]
+  },
+  {
+    "question": "Do I need to record a video demo?",
+    "answer": "Yes, for each deliverable please record a short Loom or Dropbox Capture video walkthrough showing your output. Share a public cloud link, not Google Drive.",
+    "keywords": [
+      "video",
+      "loom",
+      "demo",
+      "record",
+      "walkthrough",
+      "screen",
+      "show"
+    ]
+  }
+]
